@@ -1,7 +1,9 @@
 # ☕ Java Learning Journey
 
-Изучаю Java с нуля. Курс: **Яндекс Практикум — Java-разработчик. Расширенный
-** (2026–2027)
+**Цель:** стать Java-разработчиком к середине 2027 года.  
+**Старт:** май 2026 | **Курс:** Яндекс Практикум - Java-разработчик. Расширенный
+
+> Документирую каждый шаг публично. Задачи, провалы, инсайты - всё здесь.
 
 ## 📊 Прогресс
 
@@ -37,6 +39,10 @@
 - Java 17+
 - IntelliJ IDEA
 - Git / GitHub
+
+## 📈 GitHub Activity
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dmitryvitsko&show_icons=true&theme=dark)
 
 ## 👤 Обо мне
 
