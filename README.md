@@ -40,12 +40,6 @@
 - IntelliJ IDEA
 - Git / GitHub
 
-## 📈 GitHub Activity
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dmitryvitsko&show_icons=true&theme=dark&cache_seconds=1800)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dmitryvitsko&layout=compact&theme=dark)
-
 ## 👤 Обо мне
 
 Начинающий Java-разработчик. Документирую свой путь публично.
