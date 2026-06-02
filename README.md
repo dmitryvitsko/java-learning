@@ -44,5 +44,5 @@
 
 Начинающий Java-разработчик. Документирую свой путь публично.
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/%D0%B4%D0%B8%D0%BC%D0%B0-%D0%B2%D0%B8%D1%82%D1%8C%D0%BA%D0%BE-aa3b642ba/)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/dmitriy-vitsko-66000a398/?skipRedirect=true)
 - 📱 Telegram: @dmitryvitsko
