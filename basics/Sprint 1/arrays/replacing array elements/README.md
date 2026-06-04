@@ -8,21 +8,21 @@
 ## 🧠 Теория
 
 ### Массивы в Java
-\```java
+```java
 String[] dishes = {"Ризотто", "Тартар", "Шурпа"};
 // индексы:           0          1         2
-\```
+```
 Массив - набор элементов одного типа. Индексация начинается с 0.
 
 ### Обмен элементов местами
 Нельзя просто написать `a = b; b = a` - первое значение потеряется.
 Нужна временная переменная:
 
-\```java
-String temp = dishes[firstIndex];       // сохранили первый
-dishes[firstIndex] = dishes[secondIndex]; // первый = второй
+```java
+String temp = dishes[firstIndex];       // сохранили первый  
+dishes[firstIndex] = dishes[secondIndex]; // первый = второй  
 dishes[secondIndex] = temp;              // второй = сохраненный первый
-\```
+```
 
 ---
 
