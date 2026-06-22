@@ -35,11 +35,11 @@ public class StepTracker {
             }
         }
 
-        while (steps < 0) {
+        while (steps <= 0) {
             System.out.print("Введите количество шагов: ");
             steps = scanner.nextInt();
-            if (steps < 0) {
-                System.out.println("Отрицательного количества шагов быть не может!");
+            if (steps <= 0) {
+                System.out.println("Отрицательного количества шагов либо ноль шагов быть не может!");
             }
         }
 
@@ -78,7 +78,7 @@ public class StepTracker {
         if (countDaysSteps == 0) {
             System.out.println("В этом месяце статистики нет");
         } else {
-            int averageSteps = sumStepsMonth / countDaysSteps;
+            int averageSteps = sumStepsMonth / 30;
             int stepsToKilometer = converter.convertToKm(sumStepsMonth);
             int stepsToKilokalories = converter.convertStepsToKilocalories(sumStepsMonth);
             int bestSeriesDays = currentMonth.bestSeries(goalByStepsPerDay);
