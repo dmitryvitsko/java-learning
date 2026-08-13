@@ -1,3 +1,5 @@
+package ru.yandex.practicum.delivery;
+
 public class PerishableParcel extends Parcel {
     int timeToLive;
     private static final int BASE_COST = 3;

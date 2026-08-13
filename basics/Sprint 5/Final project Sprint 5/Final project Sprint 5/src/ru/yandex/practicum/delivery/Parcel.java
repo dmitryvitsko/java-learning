@@ -1,3 +1,5 @@
+package ru.yandex.practicum.delivery;
+
 public abstract class Parcel {
     private String description;
     private int weight;
